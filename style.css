@@ -69,7 +69,7 @@ button {
 
 button:hover {
   filter: brightness(110%);
-  background: black;
+  background: rgba(121, 121, 121, 0.35);
 }
 
 button:active {
