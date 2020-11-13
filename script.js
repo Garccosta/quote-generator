@@ -57,15 +57,3 @@ function tweetQuote() {
 }
 
 getQuote();
-
-
-    // const apiUrl = 'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json';
-    // try{
-    //     const proxyUrl = 'https://cors-anywhere.herokuapp.com/'
-    //     const response = await fetch(proxyUrl + apiUrl);
-    //     // const data = await response.json();
-    //     console.log(response);
-    // } catch(error) {
-    //     // getQuote();
-    //     console.log('Whoops, no quote this time', error);
-    // }
